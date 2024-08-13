@@ -1,0 +1,44 @@
+* {
+    color: #dadada;
+    font-family: noto sans;
+}
+
+code, code * {
+    font-family: noto sans mono;
+}
+
+html {
+    max-width: 60%;
+    min-width: 0%;
+    background: #1e1e1e;
+    margin: auto;
+}
+
+h1 {
+    color: #b8bb26;
+    border-bottom: 1px solid;
+}
+
+h2 {
+    color: #8ec07c;
+    border-bottom: 1px solid;
+}
+
+h3 {
+    color: #83a598;
+    border-bottom: 1px solid;
+}
+
+h4 {
+    color: #d3869b;
+    border-bottom: 1px solid;
+}
+
+h5 {
+    color: #fe8019;
+    border-bottom: 1px solid;
+}
+
+a {
+    color: #7d5bed;
+}
